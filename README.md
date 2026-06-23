@@ -1,6 +1,7 @@
 # Mercury ☿
 
-Learning in public.
+Still learning.
+Still building.
 
 ## Current Focus
 
